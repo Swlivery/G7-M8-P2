@@ -1,6 +1,7 @@
 
 # ![me](https://github.com/user-attachments/assets/83625bb1-d82d-4205-be43-afa1b7729006)
 
+<img src="https://github.com/user-attachments/assets/e4731f5b-f838-47af-ae16-9febef042e0f" width="300" alt="me">
 Hola! 👋 Soy Marco
 
 ## Sobre mí

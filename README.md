@@ -1,4 +1,5 @@
-# ¡Hola! 👋 Soy Marco
+# ¡![me](https://github.com/user-attachments/assets/e4731f5b-f838-47af-ae16-9febef042e0f)
+Hola! 👋 Soy Marco
 
 ## Sobre mí
 Soy un desarrollador apasionado por la tecnología y el desarrollo web. Actualmente me encuentro estudiando y mejorando mis habilidades en desarrollo frontend.
@@ -45,7 +46,8 @@ Busco oportunidades para crecer como desarrollador frontend y participar en proy
 - YouTube: [Tu canal de YouTube]
 
 ### 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Swlivery&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=anubis73&show_icons=true&theme=radical)
 
 ---
 ⭐️ From [Swlivery](https://github.com/Swlivery)
+

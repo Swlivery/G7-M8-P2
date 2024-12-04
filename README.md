@@ -1,5 +1,5 @@
 
-# ![me](https://github.com/user-attachments/assets/83625bb1-d82d-4205-be43-afa1b7729006 | width=300)
+# ![me](https://github.com/user-attachments/assets/83625bb1-d82d-4205-be43-afa1b7729006)
 
 Hola! 👋 Soy Marco
 

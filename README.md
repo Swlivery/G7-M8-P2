@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Marco
 
 ## Sobre mí
 Soy un desarrollador apasionado por la tecnología y el desarrollo web. Actualmente me encuentro estudiando y mejorando mis habilidades en desarrollo frontend.
@@ -20,6 +20,21 @@ Soy un desarrollador apasionado por la tecnología y el desarrollo web. Actualme
 - Mejores prácticas en desarrollo web
 - Frameworks modernos
 - Control de versiones avanzado
+
+### 🛠️ Mis Proyectos
+Aquí algunos de mis proyectos destacados:
+
+1. [Proyecto React Router](https://github.com/Swlivery/G17-M6-D4)
+   - Aplicación React con implementación de rutas y navegación
+   - Tecnologías: React, React Router, JavaScript, CSS
+
+2. [Proyecto Natural Pic](https://github.com/Swlivery/G17---M7-P1)
+   - Galería de imágenes con Context API y hooks
+   - Tecnologías: React, Context API, Hooks, JavaScript
+
+3. [Proyecto Pokemón API](https://github.com/Swlivery/G17---M7-D1)
+   - Aplicación que consume la API de Pokemón
+   - Tecnologías: React, APIs, JavaScript, CSS
 
 ### 🔍 Búsqueda profesional
 Busco oportunidades para crecer como desarrollador frontend y participar en proyectos desafiantes que me permitan aplicar y expandir mis conocimientos.
